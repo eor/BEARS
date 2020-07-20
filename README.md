@@ -22,7 +22,7 @@ Should your system lack `git`, you can alternatively download a zip file of the 
 
 ## Installation
 
-... coming soonish
+... coming soonish (this time for real)
 
 
 ## Running simulations
